@@ -1,0 +1,7 @@
+name: fluxo1
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
