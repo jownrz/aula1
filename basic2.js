@@ -1,4 +1,4 @@
-let nota = 80;
+let nota = 50;
 if (nota >= 75){
     console.log("Aprovado");
 }else if(nota >= 60){
